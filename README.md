@@ -30,43 +30,39 @@ solutions.
 
 🤖 Local LLM Applications using Ollama
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### AI / ML
-
-Scikit-learn
-
-TensorFlow
-
-XGBoost
-
-Pandas
-
-NumPy
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### Generative AI
+### 🤖 Artificial Intelligence & Machine Learning
 
-LangChain
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-Ollama
+---
 
-Vector Databases
+### 🚀 Generative AI
 
-RAG
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
-NLP
+---
+
+### 🏦 Domains
+
+![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-blueviolet?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Financial AI](https://img.shields.io/badge/Financial_AI-0052CC?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-FF9800?style=for-the-badge)
+
 
 ## 📊 GitHub Statistics
 
