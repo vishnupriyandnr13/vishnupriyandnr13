@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Python+Developer;Generative+AI+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
 
-## Hi there 👋
+# Hi 👋 I'm Vishnu Priya Nedunoori
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=4FA3FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Generative+AI+Enthusiast;Building+RAG+Applications;Financial+Technology+Innovator;Python+Developer" />
+
+</div>
 <!--
 **vishnupriyandnr13/vishnupriyandnr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
