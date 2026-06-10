@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vishnupriyandnr13&show_icons=true&theme=tokyonight)
+
