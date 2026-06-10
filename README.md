@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Python+Developer;Generative+AI+Enthusiast)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!--
@@ -35,7 +37,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyandnr13&layout=compact&theme=tokyonight)
 
-## Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vishnupriyandnr13&theme=tokyonight)
 
