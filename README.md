@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vishnupriyandnr13&show_icons=true&theme=tokyonight)
 
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyandnr13&layout=compact&theme=tokyonight)
