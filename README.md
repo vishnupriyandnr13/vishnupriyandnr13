@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 ## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyandnr13&layout=compact&theme=tokyonight)
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vishnupriyandnr13&theme=tokyonight)
+
