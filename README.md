@@ -1,6 +1,6 @@
-https://chatgpt.com/s/m_6a299049f96c8191b729135086ee7cc3
-
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishnupriyandnr13/vishnupriyandnr13/main/banner.png" width="100%">
+</p><div align="center">
 
 # Hi 👋 I'm Vishnu Priya Nedunoori
 
