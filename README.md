@@ -68,6 +68,12 @@ solutions.
 
 ![](https://github-readme-stats.vercel.app/api?username=vishnupriyandnr13&show_icons=true&theme=tokyonight)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishnupriyandnr13/vishnupriyandnr13/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ## 💻 Most Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupriyandnr13&layout=compact&theme=tokyonight)
@@ -115,7 +121,6 @@ www.linkedin.com/in/vishnu-priya-nedunoori-28698827b
 vishnupriyandnr13@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=vishnupriyandnr13&color=4FA3FF)
-
 
 
 
