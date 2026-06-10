@@ -64,6 +64,8 @@ Vector Databases
 
 RAG
 
+NLP
+
 ## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=vishnupriyandnr13&show_icons=true&theme=tokyonight)
@@ -117,5 +119,5 @@ vishnupriyandnr13@gmail.com
 ![](https://komarev.com/ghpvc/?username=vishnupriyandnr13&color=4FA3FF)
 
 
-NLP
+
 
