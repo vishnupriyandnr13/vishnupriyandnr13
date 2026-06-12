@@ -92,6 +92,12 @@ queries strictly from RBI circulars using semantic search.
 Machine Learning system for real-time fraud prediction and
 transaction risk scoring.
 
+### 🛡️ AI-Powered Multimodal Phishing Detection and Threat Intelligence Platform
+
+Built an AI-driven cybersecurity platform that leverages Google Gemini to detect phishing
+attacks from URLs, emails, and images, providing automated risk scoring, incident response, 
+and threat intelligence through an interactive dashboard.
+
 ## 📚 Exploring
 
 Agentic AI
