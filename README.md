@@ -66,8 +66,7 @@ solutions.
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=vishnupriyandnr13&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnupriyandnr13&show_icons=true&theme=tokyonight&v=2)
 ## 🐍 Contribution Snake
 
 <p align="center">
